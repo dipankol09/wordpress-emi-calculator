@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: SKD EMI Calculator
+Plugin Name: DC EMI Calculator
 Description: A custom plugin to calculate EMI with real-time updates and display it with a circular progress chart.
 Version: 1.0
 Author: DC
