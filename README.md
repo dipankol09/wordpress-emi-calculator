@@ -19,7 +19,7 @@ For a quick demonstration of the plugin in action, check out this video:
 
 ### From GitHub
 
-1. Download the plugin files from this repository: [Download Here]([https://github.com/dipankol09/wordpress-emi-calculator/archive/refs/heads/main.zip)
+1. Download the plugin files from this repository: [Download Here](https://github.com/dipankol09/wordpress-emi-calculator/archive/refs/heads/main.zip)
 2. Upload the entire `wordpress-emi-calculator` folder to the `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 
