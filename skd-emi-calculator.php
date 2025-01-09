@@ -3,7 +3,7 @@
 Plugin Name: SKD EMI Calculator
 Description: A custom plugin to calculate EMI with real-time updates and display it with a circular progress chart.
 Version: 1.0
-Author: Sanjoy Das
+Author: DC
 */
 
 // Prevent direct access to the file
